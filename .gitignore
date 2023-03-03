@@ -1,0 +1,16 @@
+/venv
+/Python/.env
+/venv2
+/Airflow/logs
+/Airflow/airflow-webserver.pid
+/Airflow/airflow.db
+/Airflow/airflow.cfg
+/Airflow/webserver_config.py
+/Airflow/dags/__pycache__
+/Airflow/dags/PythonScript/__pycache__
+/Airflow/dags/PythonScript/.cache
+/Airflow/dags/PythonScript/.env
+/Airflow/dags/PythonScript/*csv
+/Airflow/dags/PythonScript/sample.json
+
+
